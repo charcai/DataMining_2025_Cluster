@@ -74,6 +74,6 @@ python clustering_task.py
 
 - `clustering_task.py`: 主程序文件
 - `cluster_labels.json`: 真实标签文件(用于评估)
-- `dataset/`: 图像数据集目录
+- `dataset/`: 图像数据集目录，直接解压课程组提供的cluster.zip到仓库根目录即可
 - `requirements.txt`: 依赖包列表
 
